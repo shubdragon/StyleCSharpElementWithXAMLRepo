@@ -7,3 +7,5 @@ style c sharp or command line element with xaml dictionary
 
 https://1drv.ms/i/s!Ahppl6XCmlXflNgdxkbYxDbQzgb0EA
 
+
+![My image](shubdragon.github.com/StyleCSharpElementWithXAMLRepo/StylingRepo/Assets/img/demo.gif)
