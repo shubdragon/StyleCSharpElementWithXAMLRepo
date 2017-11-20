@@ -5,7 +5,5 @@ style c sharp or command line element with xaml dictionary
 
 2) Build and run
 
-https://1drv.ms/i/s!Ahppl6XCmlXflNgdxkbYxDbQzgb0EA
 
-
-![My image](shubdragon.github.com/StyleCSharpElementWithXAMLRepo/StylingRepo/Assets/img/demo.gif)
+![demo](https://user-images.githubusercontent.com/20332532/33029625-1b718560-ce3f-11e7-83ba-c8bb284da0b8.gif)
